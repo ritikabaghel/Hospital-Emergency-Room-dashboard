@@ -68,7 +68,8 @@ The dataset contains anonymized records representing hospital ER visits, includi
 
 ## 📷 Dashboard Preview
 
-*(Insert a screenshot of your dashboard here)*
+<img width="1654" height="897" alt="image" src="https://github.com/user-attachments/assets/02b09133-bc29-4006-ab4c-1166d01249f8" />
+
 
 ---
 
