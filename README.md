@@ -9,7 +9,7 @@ This project simulates a **real-world hospital analytics scenario**, helping hea
 
 ---
 
-## 🎯 Purpose of the Project
+## 🎯 Purpose of the Project..
 
 The goal was to create a **data-driven solution** for hospital management that:
 
